@@ -22,9 +22,5 @@ Este repositorio contiene los siguientes archivos en SQL:
 
 ![This is an image](https://buenosaires.gob.ar/sites/default/files/media/image/2020/03/18/afe2a3eb4822e29d21f689a938078e116d6747cd.jpeg)
 
-<<<<<<< HEAD
 
 Proyecto basado en el [Curso de MySQL y MariaDB de Platzi](https://platzi.com/cursos/mysql-mariadb/)
-=======
-Proyecto basado en el  Curso de MySQL y MariaDB de Platzi
->>>>>>> a3f8e43d5ef50adc1bdf4c002c9e9ccd3d39c75a
