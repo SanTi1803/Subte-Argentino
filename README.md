@@ -1,4 +1,4 @@
-# **Sistema Subte de Argentina en SQL**
+# **Sistema Subte de Buenos Aires - Argentina en SQL**
 Este repositorio contiene los siguientes archivos en SQL:
 
 * Estaciones de cada una de las líneas del Subte.
@@ -16,9 +16,9 @@ Este repositorio contiene los siguientes archivos en SQL:
 
 **Los datos fueron tomados de :**
 
-* Estaciones de Subte de Buenos Aires - Wikipedia
+* [Estaciones Subte de Buenos Aires - Wikipedia](https://es.wikipedia.org/wiki/Anexo:Estaciones_de_Subte_de_Buenos_Aires).
 
-* Geolocalización
+* [Geolocalización](https://www.google.com/maps/place/Buenos+Aires,+CABA/@-34.6306562,-58.5012764,10z/data=!4m6!3m5!1s0x95bcca3b4ef90cbd:0xa0b3812e88e88e87!8m2!3d-34.6036844!4d-58.3815591!16zL20vMDFseTVt).
 
 ![This is an image](https://buenosaires.gob.ar/sites/default/files/media/image/2020/03/18/afe2a3eb4822e29d21f689a938078e116d6747cd.jpeg)
 
