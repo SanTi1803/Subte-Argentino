@@ -3,7 +3,7 @@ Este repositorio contiene los siguientes archivos en SQL:
 
 * Estaciones de cada una de las líneas del Subte.
 
-* Líneas del Metro (A, B, C, D, E, H).
+* Líneas del Subte (A, B, C, D, E, H).
 
 * Geolocalización de cada estación.
 
